@@ -4,3 +4,11 @@
     padding: 3px;
     border: 3px solid cadetblue;
 }
+
+.textContainer {
+    margin: auto;
+    background-color: #302f4e;
+    width: 70%;
+    padding: 30px;
+    border-radius: 20px;
+}
