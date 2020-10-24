@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48" version="1.1"><g id="surface1"><path d="M41 5H7l3 34 14 4 14-4z" fill="#0277BD"/><path d="M24 8v31.898L35.2 36.7 37.7 8z" fill="#039BE5"/><path d="M33.102 13H24v4h4.898l-.296 4H24v4h4.398l-.296 4.5L24 30.898v4.204l7.898-2.602.704-11.5z" fill="#FFF"/><path d="M24 13v4h-8.898l-.301-4zm-4.602 8l.204 4H24v-4zm.403 6h-4l.3 5.5L24 35.102v-4.204L19.898 29.5z" fill="#EEE"/></g><metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/"><rdf:Description about="https://iconscout.com/legal#licenses" dc:title="css" dc:description="css" dc:publisher="Iconscout" dc:date="2017-12-15" dc:format="image/svg+xml" dc:language="en"><dc:creator><rdf:Bag><rdf:li>Icons8</rdf:li></rdf:Bag></dc:creator></rdf:Description></rdf:RDF></metadata></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: SketchAPI 5.1.316 <https://api.sketch.io/> -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketchjs="https://sketch.io/dtd/" style="" sketchjs:metadata="eyJ0aXRsZSI6IkRyYXdpbmciLCJkZXNjcmlwdGlvbiI6Ik1hZGUgd2l0aCBTa2V0Y2hwYWQgLSBodHRwczovL3NrZXRjaC5pby9za2V0Y2hwYWQiLCJtZXRhZGF0YSI6e30sImNsaXBQYXRoIjp7ImVuYWJsZWQiOnRydWUsInN0eWxlIjp7InN0cm9rZVN0eWxlIjoiYmxhY2siLCJsaW5lV2lkdGgiOjF9fSwiZXhwb3J0RFBJIjo3MiwiZXhwb3J0Rm9ybWF0IjoicG5nIiwiZXhwb3J0UXVhbGl0eSI6MC45NSwidW5pdHMiOiJweCIsIndpZHRoIjo2NzMsImhlaWdodCI6NzIyLCJwYWdlcyI6eyJsZW5ndGgiOjEsImRhdGEiOlt7IndpZHRoIjo2NzMsImhlaWdodCI6NzIyfV19fQ==" width="673" height="722" viewBox="0 0 673 722" sketchjs:version="5.1.316">
+<g sketchjs:tool="clipart" style="mix-blend-mode: source-over;" transform="matrix(0.7251257402669747,0,0,0.7151037681285892,-159.62339704386133,11.959730970884713)">
+	<g transform="matrix(25.688735961914062,0,0,25.688735961914062,67.89229583740234,-126.20639156653684)" sketchjs:uid="1" style="">
+		<g id="surface1" sketchjs:uid="2" style="">
+			<path d="M41 5H7l3 34 14 4 14-4z" sketchjs:uid="3" style="fill: #0277BD;"/>
+			<path d="M24 8v31.898L35.2 36.7 37.7 8z" sketchjs:uid="4" style="fill: #039BE5;"/>
+			<path d="M33.102 13H24v4h4.898l-.296 4H24v4h4.398l-.296 4.5L24 30.898v4.204l7.898-2.602.704-11.5z" sketchjs:uid="5" style="fill: #FFF;"/>
+			<path d="M24 13v4h-8.898l-.301-4zm-4.602 8l.204 4H24v-4zm.403 6h-4l.3 5.5L24 35.102v-4.204L19.898 29.5z" sketchjs:uid="6" style="fill: #EEE;"/>
+		</g>
+	</g>
+</g>
+</svg>

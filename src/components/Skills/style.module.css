@@ -1,3 +1,19 @@
 .imgTech {
-    width: 10%;
+  width: 64px;
+  border-radius: 5px;
+  margin: 20px 60px;
+  display: inline-block;
+}
+
+.imgContainer {
+  text-align: center;
+}
+
+.elemContainer {
+  display: inline-block;
+  transition: all 1s ease;
+}
+
+.elemContainer:hover {
+  transform: scale(1.1);
 }
