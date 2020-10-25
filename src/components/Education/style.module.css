@@ -1,0 +1,15 @@
+.eduBlock {
+  margin: 30px auto;
+  padding: 15px;
+  background-color: #302f4e;
+  border-radius: 20px;
+  height: 50%;
+}
+
+.date {
+  color: #7875aa;
+}
+
+.title {
+  margin-bottom: 10px;
+}

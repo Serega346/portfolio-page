@@ -18,6 +18,21 @@ h6 {
   margin: 0;
 }
 
+a:link {
+  text-decoration: none;
+  color: ghostwhite;
+}
+
+a:visited {
+  text-decoration: none;
+  color: ghostwhite;
+}
+
+a:active {
+  text-decoration: none;
+  color: ghostwhite;
+}
+
 ::-webkit-scrollbar {
   width: 10px;
 }

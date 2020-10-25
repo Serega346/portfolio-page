@@ -1,0 +1,33 @@
+.imgWorks {
+  width: 100%;
+  border-radius: 20px 20px 0 0;
+  transition: all 500ms ease;
+}
+
+.imgContainer {
+  background-color: #302f4e;
+  border-radius: 20px;
+  text-align: center;
+  transition: all 500ms ease;
+  overflow: hidden;
+}
+
+.imgCaption {
+  padding: 15px;
+}
+
+.imgContainer:hover {
+  transform: scale(1.02);
+}
+
+.imgWorks:hover {
+  transform: scale(1.02);
+}
+
+.date {
+  color: #7875aa;
+}
+
+.title {
+  margin-bottom: 50px;
+}

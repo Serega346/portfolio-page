@@ -2,9 +2,9 @@ import React from "react";
 
 import style from "./style.module.css";
 
-export const Index = () => {
+export const Skills = () => {
   return (
-    <div className="container mt-5">
+    <div className="container mt-5 mb-5">
       <h1 className="mb-5">Skills</h1>
       <div className="row">
         <div className={`col-12 ${style.imgContainer}`}>

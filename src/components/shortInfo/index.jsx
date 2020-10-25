@@ -29,21 +29,33 @@ export const ShortInfo = () => {
           href="https://github.com/Serega346"
           target="_blank"
         >
-          <img src="./images/github.svg" alt="" />
+          <img
+            className={style.imgHover}
+            src="./images/github.svg"
+            alt="GitHub"
+          />
         </a>
         <a
           className={style.socialMedia}
           href="https://www.instagram.com/serega356/"
           target="_blank"
         >
-          <img src="./images/instagram.svg" alt="" />
+          <img
+            className={style.imgHover}
+            src="./images/instagram.svg"
+            alt="Instagram"
+          />
         </a>
         <a
           className={style.socialMedia}
           href="https://www.linkedin.com/in/serhii-khomyn-80011a18a/"
           target="_blank"
         >
-          <img src="./images/linkedin.svg" alt="" />
+          <img
+            className={style.imgHover}
+            src="./images/linkedin.svg"
+            alt="LinkedIn"
+          />
         </a>
       </div>
     </div>

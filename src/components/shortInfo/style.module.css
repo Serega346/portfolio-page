@@ -20,3 +20,12 @@
 .socialMedia {
   margin: 0 10px;
 }
+
+.imgHover {
+  transition: all 300ms ease;
+}
+
+.imgHover:hover {
+  transform: scale(1.2);
+  color: #0f0f1d;
+}
