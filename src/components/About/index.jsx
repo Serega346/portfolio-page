@@ -5,7 +5,9 @@ import style from "./style.module.css";
 export const About = () => {
   return (
     <div className="container mb-5">
-      <h1 className="mb-5">About me</h1>
+      <h1 className="mb-5" id="About">
+        About me
+      </h1>
       <div className="row">
         <div className="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12 text-center d-flex align-items-center">
           <img

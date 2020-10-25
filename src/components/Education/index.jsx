@@ -4,7 +4,7 @@ import style from "./style.module.css";
 
 export const Education = () => {
   return (
-    <div className="container mt-5 mb-5">
+    <div className="container mt-5 mb-5" id="Education">
       <h1 className={style.title}>Education</h1>
       <div className="row">
         <div className="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 mb-5">

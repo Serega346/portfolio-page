@@ -58,6 +58,13 @@ export const ShortInfo = () => {
           />
         </a>
       </div>
+      <a
+        className={style.btn}
+        href="https://drive.google.com/file/d/1b306K5aQZGut_RFWCU0JjcZVdhsQ31RP/view?usp=sharing"
+        target="_blank"
+      >
+        Open CV
+      </a>
     </div>
   );
 };

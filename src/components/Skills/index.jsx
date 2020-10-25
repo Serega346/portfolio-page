@@ -5,7 +5,9 @@ import style from "./style.module.css";
 export const Skills = () => {
   return (
     <div className="container mt-5 mb-5">
-      <h1 className="mb-5">Skills</h1>
+      <h1 className="mb-5" id="Skills">
+        Skills
+      </h1>
       <div className="row">
         <div className={`col-12 ${style.imgContainer}`}>
           <figure className={style.elemContainer}>

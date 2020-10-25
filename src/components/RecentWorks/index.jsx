@@ -4,7 +4,7 @@ import style from "./style.module.css";
 
 export const RecentWorks = () => {
   return (
-    <div className="container mt-5">
+    <div className="container mt-5" id="Recent">
       <h1 className={style.title}>Recent works</h1>
       <div className="row">
         <div className="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
